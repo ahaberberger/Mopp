@@ -1,0 +1,15 @@
+{
+  "name": "mopp/standard",
+  "license": "MIT",
+  "type": "project",
+  "description": "The Mopp Object Processor for PHP",
+  "require": {
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-0": {
+      "": "src/",
+      "Test": "test/"
+    }
+  }
+}
